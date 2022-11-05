@@ -84,4 +84,4 @@ print()
 #Format
 dob = 920
 text = "My Name is Mark , Sal is {}"
-print(text.Format(dob))
+print(text.format(dob))
