@@ -42,3 +42,46 @@ print()
 if "love" not in f:
     print("Nom 'love' word not have")
 
+print()
+#Slicing String
+g = " Hello, Imashi  "
+print(g[7:13])
+print(g[:5])
+print(g[7:])
+
+print(g[-7:-2])
+
+print()
+#Upper Case
+print(g.upper())
+#Lower Case
+print(g.lower())
+
+print()
+#Remove WhiteSpace
+print(g.strip())
+
+print()
+#Replace String
+print(g.replace("i", "a"))
+
+print()
+#Split String
+print(g.split(","))
+
+print()
+#String Concetenation
+h = "I"
+i = "Really"
+j = "Like"
+k = "You"
+l = h+i+j+k
+m = h,i,j,k
+print(l)
+print(m)
+
+print()
+#Format
+dob = 920
+text = "My Name is Mark , Sal is {}"
+print(text.Format(dob))
