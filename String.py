@@ -85,3 +85,31 @@ print()
 dob = 920
 text = "My Name is Mark , Sal is {}"
 print(text.format(dob))
+
+#Escape Character
+    #Single Quote
+print("I\'m a best programmer")
+
+    #Backslash
+print("One \\Blackslash")
+
+    #New Line
+print("I Like\nImashi")
+
+    #Carriage Return
+print("I Like\rImashi")
+
+    #Tab
+print("I Like\tImashi")
+
+    #Backspace
+print("I Like \bImashi")
+
+    #Form Feed
+print("I Like \fImashi")
+
+    #Octal Value
+print("\110\145\154\154\157")
+
+    #Hex Value
+print("\x48\x65\x6c\x6c\x6f")
