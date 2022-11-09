@@ -4,7 +4,7 @@ print("Hello Anjana")
 #Multi Line Comments
 
 """
-Hello Imashi Anjana Gamage
+Hello Imasha Hansani Rupe
 How Are You
 I Realy Like You
 """

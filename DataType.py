@@ -37,12 +37,12 @@ print(x)
 print(type(x))
 
 print()
-x= ["Imashi", "Anjana", "Gamage"]
+x= ["Imasha","Hansani","Rupe"]
 print(x)
 print(type(x))
 
 print()
-x= ("Imashi", "Anjana", "Gamage")
+x= ("Imasha","Hansani","Rupe")
 print(x)
 print(type(x))
 
@@ -104,12 +104,12 @@ print(y)
 print(type(y))
 
 print()
-y = list(("Imashi", "Anjana", "Gamage"))
+y = list(("Imasha","Hansani","Rupe"))
 print(y)
 print(type(y))
 
 print()
-y = tuple(("Imashi", "Anjana", "Gamage"))
+y = tuple(("Imasha","Hansani","Rupe"))
 print(y)
 print(type(y))
 
@@ -124,12 +124,12 @@ print(y)
 print(type(y))
 
 print()
-y = set(("Imashi", "Anjana", "Gamage"))
+y = set(("Imasha","Hansani","Rupe"))
 print(y)
 print(type(y))
 
 print()
-y = frozenset(("Imashi", "Anjana", "Gamage"))
+y = frozenset(("Imasha","Hansani","Rupe"))
 print(y)
 print(type(y))
 

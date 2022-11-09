@@ -18,13 +18,13 @@ print()
 #Evaluate Values and Variables
 print(bool("CS"))
 print(bool(920))
-print(bool(["Imashi","Anjana","Gamage"]))
+print(bool(["Imasha","Hansani","Rupe"]))
 
 print()
 
 c = "CS"
 d = 920
-e = ["Imashi","Anjana","Gamage"]
+e = ["Imasha","Hansani","Rupe"]
 print(bool(c))
 print(bool(d))
 print(bool(e))

@@ -25,12 +25,12 @@ for d in "Mark":
 
 print()
 #String Length
-e = "Hello Imashi"
+e = "Hello Imasha"
 print(len(e))
 
 print()
 #Check String
-f = "I crush is Imashi Anjana Gamage"
+f = "I crush is Imasha Hansani Rupe"
 print("crush" in f)
 print()
 if "crush" in f:
@@ -44,7 +44,7 @@ if "love" not in f:
 
 print()
 #Slicing String
-g = " Hello, Imashi  "
+g = " Hello, Imasha  "
 print(g[7:13])
 print(g[:5])
 print(g[7:])
@@ -94,19 +94,19 @@ print("I\'m a best programmer")
 print("One \\Blackslash")
 
     #New Line
-print("I Like\nImashi")
+print("I Like\nImasha")
 
     #Carriage Return
-print("I Like\rImashi")
+print("I Like\rImasha")
 
     #Tab
-print("I Like\tImashi")
+print("I Like\tImasha")
 
     #Backspace
-print("I Like \bImashi")
+print("I Like \bImasha")
 
     #Form Feed
-print("I Like \fImashi")
+print("I Like \fImasha")
 
     #Octal Value
 print("\110\145\154\154\157")

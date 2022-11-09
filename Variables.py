@@ -25,7 +25,7 @@ print()
 
 #Get Type of Variable
 g = 5.68
-h = 'Imashi'
+h = 'Imasha'
 i = 96
 
 print(type(g))
@@ -34,9 +34,9 @@ print(type(i))
 print()
 
 #Single or Double Quotes
-j="Gamage"
-k='Gamege' #same
-l= """Gamege""" #same
+j="Rupe"
+k='Rupe' #same
+l= """Rupe""" #same
 
 print(j)
 print(k)
@@ -72,7 +72,7 @@ MyVariableName = 'Mark'
 my_variable_name = 'Mark'
 
 #Many Values to Multiple Variables
-o, p, q = "Imashi" , "Anjana" , "Gamege"
+o, p, q = "Imasha" , "Anjana" , "Rupe"
 print(o)
 print(p)
 print(q)
@@ -86,7 +86,7 @@ print(t)
 print()
 
 #Unpack a Collection
-names = ["Imashi", "Anjana", "Gamage"]
+names = ["Imasha", "Anjana", "Rupe"]
 u, v, w = names
 print(u)
 print(v)
@@ -115,7 +115,7 @@ myfunc()
 print()
 
 def myFunc1():
-    v="Gamage"
+    v="Rupe"
     print("My Cursh is " + v)
 myFunc1()
 
@@ -125,7 +125,7 @@ print()
 
 def myFunc2():
     global v
-    v = 'Gamege'
+    v = 'Rupe'
 myFunc2()
 
 print("I Like " + v)

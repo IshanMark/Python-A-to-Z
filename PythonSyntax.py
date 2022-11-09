@@ -1,7 +1,7 @@
 # Execute Python Syntax
     # Write Directly in CMD
 
-print("Hello Imashi")
+print("Hello Imasha")
 
 # Pyhton Indentation
     #Spaces at the beginning of a code line
@@ -18,5 +18,5 @@ if 9>5:
     # Case Sensitive
 x0 = 1 # Int
 x1 = 1.5 # Float
-y = "Gamage" # String
+y = "Rupe" # String
 
